@@ -22,3 +22,8 @@ functions:
 
 plugins:
   - serverless-offline-python
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: non-linux
