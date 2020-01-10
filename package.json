@@ -1,0 +1,14 @@
+{
+  "name": "sls-aws-python-hello-world",
+  "version": "1.0.0",
+  "description": "A hello world python REST API, deployed as a AWS Lambda function using serverless framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline-python": "^3.22.1"
+  }
+}

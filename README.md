@@ -9,5 +9,6 @@ $ sls deploy
 ## Local Development
 ### Setup serverless offline
 ```shell script
+$ npm init
 $ npm install serverless-offline-python --save-dev
 ```
