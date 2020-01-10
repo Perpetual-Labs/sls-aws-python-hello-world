@@ -7,7 +7,7 @@ service: sls-aws-python-hello-world
 
 provider:
   name: aws
-  runtime: python2.7
+  runtime: python3.7
   profile: beancrunch
   stage: dev
   region: eu-west-1
