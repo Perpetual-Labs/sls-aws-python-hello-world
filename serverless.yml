@@ -19,3 +19,6 @@ functions:
       - http:
           path: ping
           method: get
+
+plugins:
+  - serverless-offline-python

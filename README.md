@@ -5,3 +5,9 @@ A hello world python REST API, deployed as a AWS Lambda function using serverles
 ```shell script
 $ sls deploy
 ```
+
+## Local Development
+### Setup serverless offline
+```shell script
+$ npm install serverless-offline-python --save-dev
+```
